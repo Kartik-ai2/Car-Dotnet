@@ -13,3 +13,18 @@ C:\Users\IQD DELL\source\repos\CarSale\Entities\obj\Debug\net8.0\refint\Entities
 C:\Users\IQD DELL\source\repos\CarSale\Entities\obj\Debug\net8.0\Entities.pdb
 C:\Users\IQD DELL\source\repos\CarSale\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
 C:\Users\IQD DELL\source\repos\CarSale\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Car-Dotnet\CarSale\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Car-Dotnet\CarSale\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Car-Dotnet\CarSale\Entities\bin\Debug\net8.0\Entities.dll
+C:\Car-Dotnet\CarSale\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Car-Dotnet\CarSale\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Car-Dotnet\CarSale\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Car-Dotnet\CarSale\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Car-Dotnet\CarSale\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Car-Dotnet\CarSale\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Car-Dotnet\CarSale\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+C:\Car-Dotnet\CarSale\Entities\obj\Debug\net8.0\Entities.dll
+C:\Car-Dotnet\CarSale\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Car-Dotnet\CarSale\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Car-Dotnet\CarSale\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+C:\Car-Dotnet\CarSale\Entities\obj\Debug\net8.0\ref\Entities.dll

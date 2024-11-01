@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ztgy9cNVhD4=",
+  "dgSpecHash": "QKjdTrmBQdA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Car-Dotnet\\CarSale\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IQD DELL\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\IQD DELL\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
