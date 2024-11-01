@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\CarSale\\CarSale.csproj": {}
+    "C:\\Car-Dotnet\\CarSale\\CarSale\\CarSale.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\CarSale\\CarSale.csproj": {
+    "C:\\Car-Dotnet\\CarSale\\CarSale\\CarSale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\CarSale\\CarSale.csproj",
+        "projectUniqueName": "C:\\Car-Dotnet\\CarSale\\CarSale\\CarSale.csproj",
         "projectName": "CarSale",
-        "projectPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\CarSale\\CarSale.csproj",
+        "projectPath": "C:\\Car-Dotnet\\CarSale\\CarSale\\CarSale.csproj",
         "packagesPath": "C:\\Users\\IQD DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\CarSale\\obj\\",
+        "outputPath": "C:\\Car-Dotnet\\CarSale\\CarSale\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IQD DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,14 +29,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Entities\\Entities.csproj"
+              "C:\\Car-Dotnet\\CarSale\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Car-Dotnet\\CarSale\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Repository\\Repository.csproj"
+              "C:\\Car-Dotnet\\CarSale\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Car-Dotnet\\CarSale\\Repository\\Repository.csproj"
               },
-              "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Service\\Service.csproj"
+              "C:\\Car-Dotnet\\CarSale\\Service\\Service.csproj": {
+                "projectPath": "C:\\Car-Dotnet\\CarSale\\Service\\Service.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Entities\\Entities.csproj": {
+    "C:\\Car-Dotnet\\CarSale\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Car-Dotnet\\CarSale\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Car-Dotnet\\CarSale\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\IQD DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Entities\\obj\\",
+        "outputPath": "C:\\Car-Dotnet\\CarSale\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IQD DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -179,14 +179,14 @@
         }
       }
     },
-    "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Repository\\Repository.csproj": {
+    "C:\\Car-Dotnet\\CarSale\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Car-Dotnet\\CarSale\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Car-Dotnet\\CarSale\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\IQD DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Repository\\obj\\",
+        "outputPath": "C:\\Car-Dotnet\\CarSale\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IQD DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -204,8 +204,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Entities\\Entities.csproj"
+              "C:\\Car-Dotnet\\CarSale\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Car-Dotnet\\CarSale\\Entities\\Entities.csproj"
               }
             }
           }
@@ -244,14 +244,14 @@
         }
       }
     },
-    "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Service\\Service.csproj": {
+    "C:\\Car-Dotnet\\CarSale\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Car-Dotnet\\CarSale\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Service\\Service.csproj",
+        "projectPath": "C:\\Car-Dotnet\\CarSale\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\IQD DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Service\\obj\\",
+        "outputPath": "C:\\Car-Dotnet\\CarSale\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IQD DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -269,11 +269,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Entities\\Entities.csproj"
+              "C:\\Car-Dotnet\\CarSale\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Car-Dotnet\\CarSale\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Repository\\Repository.csproj"
+              "C:\\Car-Dotnet\\CarSale\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Car-Dotnet\\CarSale\\Repository\\Repository.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eQT/XmkKj/w=",
+  "dgSpecHash": "e1wbw3i0to4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\IQD DELL\\source\\repos\\CarSale\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Car-Dotnet\\CarSale\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IQD DELL\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\IQD DELL\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
